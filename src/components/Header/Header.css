@@ -1,0 +1,29 @@
+.nav-navbar {
+  background-color: #fff;
+  border-bottom: 1px solid #a5707c41;
+}
+.brand-img {
+  width: 150px;
+}
+.primary-btn {
+  background-color: #f11144;
+  border: none;
+  color: #fff;
+  padding: 5px 25px;
+  border-radius: 20px;
+  font-size: 15px;
+  transition: 0.3s;
+}
+.primary-btn:hover {
+  background-color: #ff1d52;
+}
+.nav-navbar a.header-link.nav-link {
+  color: black;
+  font-size: 16px;
+  font-weight: 500;
+  margin-right: 20px;
+  transition: ease 0.3s;
+}
+.nav-navbar a.header-link.nav-link:hover {
+  color: #f11144;
+}

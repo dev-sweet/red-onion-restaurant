@@ -1,0 +1,29 @@
+.banner {
+  padding: 180px 0;
+  background-image: url("../../images/bannerbackground.png");
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.search-container {
+  width: 500px;
+  margin: auto;
+  background-color: white;
+  border-radius: 20px;
+  margin-top: 50px;
+}
+.search-field {
+  border: none;
+  width: calc(100% - 130px);
+  padding: 10px 20px;
+  border-radius: 20px;
+  outline: none;
+}
+
+.search-btn {
+  width: 130px;
+  border: none;
+  background-color: #f11144;
+  color: white;
+  padding: 10px 0;
+  border-radius: 25px;
+}

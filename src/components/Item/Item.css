@@ -1,0 +1,13 @@
+.item {
+  text-align: center;
+  height: auto;
+  border-radius: 5px;
+  transition: ease 0.2s;
+}
+.item:hover {
+  box-shadow: 1px 2px 9px darkgrey;
+  border-radius: 5px;
+}
+.food-img {
+  width: 250px;
+}

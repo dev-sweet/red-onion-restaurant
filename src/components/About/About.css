@@ -1,0 +1,32 @@
+.about-card {
+  border: none;
+  border-radius: 20px;
+  transition: ease-in-out 0.4s;
+  box-shadow: 0px 0px 10px 0px #fff;
+  overflow: hidden;
+  transition: 0.4s;
+}
+.about-card:hover {
+  box-shadow: 0px 0px 10px 0px #c5c5c5;
+  transform: scale(1.04);
+}
+.about-body {
+  padding: 0;
+  margin-top: 30px;
+}
+.about-icon {
+  width: 41px;
+  height: 41px;
+  background: #f11144;
+  color: white;
+  margin-right: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  border-radius: 50%;
+}
+.about-desc {
+  color: #7d7d7d;
+  font-size: 15px;
+}
